@@ -1,0 +1,37 @@
+h1, h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    
+}
+.btn{
+    background-color: rgb(233, 73, 140);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin: 8px 6px;
+    padding: 10px 15px;
+}
+
+form, table{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+option{
+    margin: 545px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+textarea{
+    border-radius: 10px;
+    border-style: groove;
+    border-color: rgb(233, 73, 140);
+    font-family: 'Poppins', sans-serif;
+}
+
+input{
+    accent-color: rgb(233, 73, 140);
+}
